@@ -24,12 +24,12 @@
         <br />
         <br />
         <br />
-        hey eshwar kuma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; r<asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        hey eshwar<br />
         <br />
-        <br />
-        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
         <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Button" />
         <br />
+        <br />
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         <br />
         <br />
         <br />
